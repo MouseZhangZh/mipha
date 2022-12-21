@@ -1,0 +1,3 @@
+[submodule "src/3rd/concurrentqueue"]
+	path = src/3rd/concurrentqueue
+	url = https://github.com/cameron314/concurrentqueue.git
