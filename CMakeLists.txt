@@ -9,4 +9,5 @@ set(CMAKE_CXX_FLAGS_RELEASE "$ENV{CXXFLAGS} -O3 -Wall")
 
 enable_testing()
 
+
 add_subdirectory(src)
